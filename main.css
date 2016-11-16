@@ -1,0 +1,19 @@
+p
+{
+    color: red;
+
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: lightblue;
+    } 
+    
+   p
+{
+    color: black;
+
+}
+ 
+}
+
